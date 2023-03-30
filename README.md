@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reatcat
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning learning
-- 📫 How to reach me my private email 1875912440@qq.com
+- 📫 my private email 1875912440@qq.com
 
 <!---
 reatcat/reatcat is an available name which I can have
